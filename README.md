@@ -36,8 +36,6 @@ This project was executed in a two-phase process: a deep-dive analysis in SQL fo
 ## Final Dashboard
 The final deliverable is a dynamic, single-page Power BI dashboard designed for an executive audience. It provides a high-level overview of the key KPIs and allows for interactive exploration of the underlying drivers of attrition.
 
-![Dashboard Screenshot]"C:\Users\ibrah\OneDrive\Desktop\Projects\HR_Attrition_Project\HR_Attrition_Dashboard.png"
-*A live, interactive version of this dashboard can be accessed here: "C:\Users\ibrah\OneDrive\Desktop\Projects\HR_Attrition_Project\IBM_HR_Attrition Project.pbix" ---
 
 ## Actionable Insights
 
