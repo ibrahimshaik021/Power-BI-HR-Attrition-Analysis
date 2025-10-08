@@ -63,5 +63,4 @@ The analysis conclusively shows that the attrition risk is most acute for **juni
 
 ## Repository Contents
 * **`HR_Attrition_Analysis.sql`:** The complete SQL script, including the database/table setup and all analytical queries.
-* **`Final Dashboard Screenshot.png`:** A high-resolution image of the final Power BI dashboard.
 * **`IBM_HR_Attrition Project.pbix`:** The full, interactive Power BI report file.
